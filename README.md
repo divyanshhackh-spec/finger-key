@@ -27,7 +27,7 @@ Try it live: [Finger Keyboard Demo]()
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/coolguysupercool7-ship-it/typesprint.git
+   git clone https://github.com/divyanshhackh-spec/finger-key.git
    cd finger-key
    ```
 
