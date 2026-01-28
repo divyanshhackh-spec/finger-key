@@ -14,7 +14,7 @@ A minimal typing speed test app built with React. Test your typing speed and acc
 
 ## Demo
 
-Try it live: [Finger Keyboard Demo]()
+Try it live: [Finger Keyboard Demo](https://finger-key-58pj.vercel.app/)
 
 ## Getting Started
 
