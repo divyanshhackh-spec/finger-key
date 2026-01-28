@@ -1,4 +1,4 @@
-# TypeSprint
+# Finger Keyboard
 
 A minimal typing speed test app built with React. Test your typing speed and accuracy with different difficulty modes and track your progress over time.
 
@@ -14,7 +14,7 @@ A minimal typing speed test app built with React. Test your typing speed and acc
 
 ## Demo
 
-Try it live: [TypeSprint Demo](https://coolguysupercool7-ship-it.github.io/typesprint/)
+Try it live: [Finger Keyboard Demo]()
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ Try it live: [TypeSprint Demo](https://coolguysupercool7-ship-it.github.io/types
 1. Clone the repo
    ```bash
    git clone https://github.com/coolguysupercool7-ship-it/typesprint.git
-   cd typesprint
+   cd finger-key
    ```
 
 2. Install dependencies
@@ -61,7 +61,7 @@ Try it live: [TypeSprint Demo](https://coolguysupercool7-ship-it.github.io/types
 
 ## How It Works
 
-TypeSprint measures your typing speed in **Words Per Minute (WPM)** and calculates your **accuracy** based on correct vs incorrect characters. 
+Finger Keyboard measures your typing speed in **Words Per Minute (WPM)** and calculates your **accuracy** based on correct vs incorrect characters. 
 
 - **WPM Calculation**: (Number of words ÷ Time in minutes)
 - **Accuracy**: (Correct characters ÷ Total characters typed) × 100
